@@ -1,4 +1,4 @@
-# kiloiot-io
+# Kilo IoT
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,133 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kiloiot-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kiloiot.io/
+Kilo IoT provides an IoT platform integrating devices, AI assistants, and connectivity solutions such as LoRaWAN, mioty, and MQTT. The platform offers dashboards, automation rules, alarm management, and a developer-friendly API for building applications across industrial, commercial, and consumer environments. It supports hardware from Kilo Electronics and cloud services via Kilo Cloud, enabling scalable, secure IoT deployments with AI-driven insights.
+
+**Areas:** IoT · Platform · AI · Connectivity · Devices
+
+## Kilo IoT on APIs.io
+
+Everything profiled for Kilo IoT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kiloiot-io/](https://apis.io/providers/kiloiot-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [Kilo IoT API Keys API](https://apis.io/apis/kiloiot-io/kiloiot-io-api-keys-api/) — The Api-Keys API from Kilo IoT — 2 operation(s) for api-keys.
+- [Kilo IoT Commands API](https://apis.io/apis/kiloiot-io/kiloiot-io-commands-api/) — The Commands API from Kilo IoT — 1 operation(s) for commands.
+- [Kilo IoT Connection (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-connection-grpc-api/) — gRPC service `connection.ConnectionService` — use a gRPC client to call these methods.
+- [Kilo IoT Connections API](https://apis.io/apis/kiloiot-io/kiloiot-io-connections-api/) — The Connections API from Kilo IoT — 2 operation(s) for connections.
+- [Kilo IoT Connector (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-connector-grpc-api/) — gRPC service `connector.ConnectorService` — use a gRPC client to call these methods.
+- [Kilo IoT Connectors API](https://apis.io/apis/kiloiot-io/kiloiot-io-connectors-api/) — The Connectors API from Kilo IoT — 1 operation(s) for connectors.
+- [Kilo IoT Dashboard (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-dashboard-grpc-api/) — gRPC service `dashboard.v2.DashboardService` — use a gRPC client to call these methods.
+- [Kilo IoT Dashboards API](https://apis.io/apis/kiloiot-io/kiloiot-io-dashboards-api/) — The Dashboards API from Kilo IoT — 2 operation(s) for dashboards.
+- [Kilo IoT Devices API](https://apis.io/apis/kiloiot-io/kiloiot-io-devices-api/) — The Devices API from Kilo IoT — 4 operation(s) for devices.
+- [Kilo IoT Digital Device (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-digital-device-grpc-api/) — gRPC service `digitaldevice.v2.DigitalDeviceService` — use a gRPC client to call these methods.
+- [Kilo IoT Organizations (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-organizations-grpc-api/) — gRPC service `OrganizationsService` — use a gRPC client to call these methods.
+- [Kilo IoT Orgs API](https://apis.io/apis/kiloiot-io/kiloiot-io-orgs-api/) — The Orgs API from Kilo IoT — 4 operation(s) for orgs.
+- [Kilo IoT Rules API](https://apis.io/apis/kiloiot-io/kiloiot-io-rules-api/) — The Rules API from Kilo IoT — 1 operation(s) for rules.
+- [Kilo IoT Sensor Template (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-sensor-template-grpc-api/) — gRPC service `sensor_template.v2.SensorTemplateService` — use a gRPC client to call these methods.
+- [Kilo IoT Sensors API](https://apis.io/apis/kiloiot-io/kiloiot-io-sensors-api/) — The Sensors API from Kilo IoT — 3 operation(s) for sensors.
+- [Kilo IoT Subscriptions API](https://apis.io/apis/kiloiot-io/kiloiot-io-subscriptions-api/) — The Subscriptions API from Kilo IoT — 1 operation(s) for subscriptions.
+- [Kilo IoT Telemetry API](https://apis.io/apis/kiloiot-io/kiloiot-io-telemetry-api/) — The Telemetry API from Kilo IoT — 3 operation(s) for telemetry.
+- [Kilo IoT User Profile (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-user-profile-grpc-api/) — gRPC service `userprofile.UserProfileService` — use a gRPC client to call these methods.
+- [Kilo IoT Users API](https://apis.io/apis/kiloiot-io/kiloiot-io-users-api/) — The Users API from Kilo IoT — 1 operation(s) for users.
+- [Kilo IoT Widget (gRPC) API](https://apis.io/apis/kiloiot-io/kiloiot-io-widget-grpc-api/) — gRPC service `widget.v2.WidgetService` — use a gRPC client to call these methods.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Kilo IoT Agentic Access](https://apis.io/agentic-access/kiloiot-io/kiloiot-io-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Kiloiot Io Context](https://apis.io/jsonld/kiloiot-io/kiloiot-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Kilo IoT API Rules](https://apis.io/rules/kiloiot-io/kiloiot-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kilo IoT Authentication](https://apis.io/security/kiloiot-io/kiloiot-io-authentication/)
+- [Kilo IoT Domain Security](https://apis.io/security/kiloiot-io/kiloiot-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docs.kiloiot.io/)
+- [Getting started](https://docs.kiloiot.io/getting-started)
+- [API reference](https://kiloiot.io/developers/)
+- [Pricing](https://kiloiot.io/pricing/)
+- [Changelog](https://docs.kiloiot.io/changelog)
+- [Blog](https://kiloiot.io/blog/)
+- [Security](https://kiloiot.io/product/security/)
+- [Terms of service](https://kiloiot.io/terms-of-service/)
+- [Privacy policy](https://kiloiot.io/privacy-policy/)
+- [GitHub](https://github.com/Kiloiot)
+
+## API Evangelist rating
+
+**Kin Score 48.5** — developing · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 31.6 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kiloiot-io/](https://apis.io/providers/kiloiot-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kilo IoT: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kiloiot-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
